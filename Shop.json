@@ -1,0 +1,94 @@
+{
+  "shopList": [
+    {
+      "id": "Beginner Package_001",
+      "title": "초보자 패키지1",
+      "description": "무료 토마토 5개와 당근 5개",
+      "startdate": "2025-11-02",
+      "finishdate": "2026-11-02",
+      "price": {
+        "Coin": 100,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "RefrigeratorInventory": {
+          "0": {
+            "quantity": 5
+          },
+          "8": {
+            "quantity": 5
+          }
+        }
+      }
+    },
+    {
+      "id": "Update Freebie!",
+      "title": "무료보상!",
+      "description": "free megabox!",
+      "startdate": "2026-2-10",
+      "finishdate": "2026-2-20",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "MegaBox": {
+          "quantity": 5
+        }
+      }
+    },
+    {
+      "id": "Update Freebie!!",
+      "title": "무료보상!",
+      "description": "Free coin!",
+      "startdate": "2026-2-10",
+      "finishdate": "2026-2-20",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "Coin": {
+          "quantity": 1000
+        }
+      }
+    },
+    {
+      "id": "Update Freebie!!!",
+      "title": "무료보상!",
+      "description": "Free Crystal!",
+      "startdate": "2026-2-10",
+      "finishdate": "2026-2-20",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "Crystal": {
+          "quantity": 5
+        }
+      }
+    },
+    {
+      "id": "Update Freebie!!!!",
+      "title": "무료보상!",
+      "description": "Free Affection!",
+      "startdate": "2026-2-10",
+      "finishdate": "2026-2-20",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "Affection": {
+          "quantity": 0.03
+        }
+      }
+    }
+  ]
+}
