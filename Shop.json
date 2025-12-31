@@ -14,7 +14,7 @@
       "give": {
         "RefrigeratorInventory": [
           {"itemid": 0, "quantity": 5},
-          {"itemid": 1, "quantity": 5}
+          {"itemid": 8, "quantity": 5}
       ]
       }
     },
@@ -88,3 +88,4 @@
     }
   ]
 }
+
