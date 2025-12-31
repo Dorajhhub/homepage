@@ -12,14 +12,10 @@
         "Crystal": 0
       },
       "give": {
-        "RefrigeratorInventory": {
-          "0": {
-            "quantity": 5
-          },
-          "8": {
-            "quantity": 5
-          }
-        }
+        "RefrigeratorInventory": [
+          {"itemid": 0, "quantity": 5},
+          {"itemid": 1, "quantity": 5}
+      ]
       }
     },
     {
