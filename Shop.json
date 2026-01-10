@@ -22,8 +22,8 @@
       "id": "Update Freebie!",
       "title": "무료보상!",
       "description": "free megabox!",
-      "startdate": "2026-2-10",
-      "finishdate": "2026-2-20",
+      "startdate": "2026-1-10",
+      "finishdate": "2026-3-20",
       "price": {
         "Coin": 0,
         "Reputation": 0,
@@ -39,8 +39,8 @@
       "id": "Update Freebie!!",
       "title": "무료보상!",
       "description": "Free coin!",
-      "startdate": "2026-2-10",
-      "finishdate": "2026-2-20",
+      "startdate": "2026-1-10",
+      "finishdate": "2026-3-20",
       "price": {
         "Coin": 0,
         "Reputation": 0,
@@ -56,8 +56,8 @@
       "id": "Update Freebie!!!",
       "title": "무료보상!",
       "description": "Free Crystal!",
-      "startdate": "2026-2-10",
-      "finishdate": "2026-2-20",
+      "startdate": "2026-1-10",
+      "finishdate": "2026-3-20",
       "price": {
         "Coin": 0,
         "Reputation": 0,
@@ -73,8 +73,8 @@
       "id": "Update Freebie!!!!",
       "title": "무료보상!",
       "description": "Free Affection!",
-      "startdate": "2026-2-10",
-      "finishdate": "2026-2-20",
+      "startdate": "2026-1-10",
+      "finishdate": "2026-3-20",
       "price": {
         "Coin": 0,
         "Reputation": 0,
@@ -91,7 +91,7 @@
       "title": "무료보상!",
       "description": "Free NyangDrop!",
       "startdate": "2026-1-10",
-      "finishdate": "2026-2-20",
+      "finishdate": "2026-3-20",
       "price": {
         "Coin": 0,
         "Reputation": 0,
@@ -107,6 +107,7 @@
     },
   ]
 }
+
 
 
 
