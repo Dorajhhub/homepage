@@ -85,7 +85,27 @@
           "quantity": 0.03
         }
       }
-    }
+    },
+    {
+      "id": "Update Freebie!!!!!",
+      "title": "무료보상!",
+      "description": "Free NyangDrop!",
+      "startdate": "2026-2-10",
+      "finishdate": "2026-2-20",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "NyangDrop": {
+          "quantity": 5,
+          "rare": "Common",
+          "count": 1
+        }
+      }
+    },
   ]
 }
+
 
