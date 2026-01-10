@@ -90,7 +90,7 @@
       "id": "Update Freebie!!!!!",
       "title": "무료보상!",
       "description": "Free NyangDrop!",
-      "startdate": "2026-2-10",
+      "startdate": "2026-1-10",
       "finishdate": "2026-2-20",
       "price": {
         "Coin": 0,
@@ -107,5 +107,6 @@
     },
   ]
 }
+
 
 
