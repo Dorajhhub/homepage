@@ -65,7 +65,7 @@
       },
       "give": {
         "Crystal": {
-          "quantity": 5
+          "quantity": 50
         }
       }
     },
@@ -99,7 +99,7 @@
       },
       "give": {
         "NyangDrop": {
-          "quantity": 5,
+          "quantity": 10,
           "rare": "Common",
           "count": 1
         }
@@ -107,6 +107,7 @@
     }
   ]
 }
+
 
 
 
