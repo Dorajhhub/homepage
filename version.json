@@ -1,11 +1,11 @@
 {
   "version": [
     {
-      "id": "NyangRestaurantTycoon"
+      "id": "NyangRestaurantTycoon",
       "version": "0.0.1"
     },
     {
-      "id": "launcher"
+      "id": "launcher",
       "version": "1.0.0.1"
     }
   ]
