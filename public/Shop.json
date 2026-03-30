@@ -1,0 +1,285 @@
+{
+  "shopList": [
+    {
+      "id": "Beginner Package_001",
+      "title": "초보자 패키지1",
+      "description": "토마토 5개와 당근 5개",
+      "startdate": "2025-11-02",
+      "finishdate": "2026-11-02",
+      "price": {
+        "Coin": 100,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "RefrigeratorInventory": [
+          { "itemid": 0, "quantity": 5 },
+          { "itemid": 8, "quantity": 5 }
+        ]
+      }
+    },
+    {
+      "id": "Beginner Package_002",
+      "title": "초보자 패키지2",
+      "description": "냥냥드롭 5개",
+      "startdate": "2025-11-02",
+      "finishdate": "2026-04-02",
+      "price": {
+        "Coin": 1000,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "NyangDrop": {
+          "quantity": 5,
+          "rare": "Common",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "Update Freebie1",
+      "title": "무료보상!",
+      "description": "free megabox!",
+      "startdate": "2026-1-10",
+      "finishdate": "2026-3-20",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "MegaBox": {
+          "quantity": 5
+        }
+      }
+    },
+    {
+      "id": "Update Freebie2",
+      "title": "무료보상!",
+      "description": "Free coin!",
+      "startdate": "2026-1-10",
+      "finishdate": "2026-3-20",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "Coin": {
+          "quantity": 1000
+        }
+      }
+    },
+    {
+      "id": "Update Freebie3",
+      "title": "무료보상!",
+      "description": "Free Crystal!",
+      "startdate": "2026-1-10",
+      "finishdate": "2026-3-20",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "Crystal": {
+          "quantity": 50
+        }
+      }
+    },
+    {
+      "id": "Update Freebie4",
+      "title": "무료보상!",
+      "description": "Free Affection!",
+      "startdate": "2026-1-10",
+      "finishdate": "2026-3-20",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "Affection": {
+          "quantity": 0.0003
+        }
+      }
+    },
+    {
+      "id": "Update Freebie5",
+      "title": "무료보상!",
+      "description": "Free NyangDrop!",
+      "startdate": "2026-1-10",
+      "finishdate": "2026-3-20",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "NyangDrop": {
+          "quantity": 10,
+          "rare": "Common",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": "Event_FirstAlpha1",
+      "title": "메가상자",
+      "description": "첫 알파를 축하하세요.",
+      "startdate": "2026-2-02",
+      "finishdate": "2026-3-31",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "MegaBox": {
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "id": "Event_FirstAlpha2",
+      "title": "냥냥드롭",
+      "description": "첫 알파를 축하하세요.",
+      "startdate": "2026-2-16",
+      "finishdate": "2026-3-31",
+      "price": {
+        "Coin": 2000,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "NyangDrop": {
+          "quantity": 1,
+          "rare": "Unique",
+          "count": 2
+        }
+      }
+    },
+    {
+      "id": "Event_FirstAlpha3",
+      "title": "각종 재화박스",
+      "description": "첫 알파를 축하하세요.",
+      "startdate": "2026-2-23",
+      "finishdate": "2026-3-31",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "MegaBox": {
+          "quantity": 2
+        }
+      }
+    },
+    {
+      "id": "Event_FirstAlpha4",
+      "title": "재화",
+      "description": "첫 알파를 축하하세요.",
+      "startdate": "2026-3-14",
+      "finishdate": "2026-3-31",
+      "price": {
+        "Coin": 1000,
+        "Reputation": 0.00005,
+        "Crystal": 30
+      },
+      "give": {
+        "Coin": {
+          "quantity": 10000
+        }
+      }
+    },
+    {
+      "id": "Event_FirstAlpha5",
+      "title": "Free NyangDrop",
+      "description": "Thank you for playing this game! I give you three legendary nyang drop.",
+      "startdate": "2026-3-30",
+      "finishdate": "2026-3-31",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "NyangDrop": {
+          "quantity": 1,
+          "rare": "Legendary",
+          "count": 3
+        }
+      }
+    },
+    {
+      "id": "CoinEnergy",
+      "title": "10000 Coin",
+      "description": " ",
+      "startdate": "2026-2-27",
+      "finishdate": "2026-4-20",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 50
+      },
+      "give": {
+        "Coin": {
+          "quantity": 10000
+        }
+      }
+    },
+    {
+      "id": "Special Package_001",
+      "title": "Free 2222Coin",
+      "description": "개학 축하",
+      "startdate": "2026-3-3",
+      "finishdate": "2026-3-4",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "Coin": {
+          "quantity": 2222
+        }
+      }
+    },
+    {
+      "id": "Special Package_002",
+      "title": "Free 22Crystal",
+      "description": "개학 축하",
+      "startdate": "2026-3-3",
+      "finishdate": "2026-3-4",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "Crystal": {
+          "quantity": 22
+        }
+      }
+    },
+    {
+      "id": "Special Package_003",
+      "title": "Free 0.00022 Affection",
+      "description": "개학 축하",
+      "startdate": "2026-3-3",
+      "finishdate": "2026-3-4",
+      "price": {
+        "Coin": 0,
+        "Reputation": 0,
+        "Crystal": 0
+      },
+      "give": {
+        "Affection": {
+          "quantity": 0.00022
+        }
+      }
+    }
+  ]
+}
